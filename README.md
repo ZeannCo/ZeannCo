@@ -16,7 +16,6 @@ My focus is cybersecurity. My projects also span data pipelines, business automa
 | **[Qualys Report Automation](https://github.com/ZeannCo/cybersecurity-portfolio/blob/main/projects/qualys-report-automation.md)** | Python desktop tooling that turns scan exports into executive Word reports and detailed Excel reports. |
 | **[Ground Truth](https://github.com/ZeannCo/cybersecurity-portfolio/blob/main/projects/ground-truth.md)** | An early-stage Active Directory purple-team lab for detection validation and future AI forensic evaluation. |
 | **[Leadgen Automation](https://github.com/ZeannCo/cybersecurity-portfolio/blob/main/projects/leadgen.md)** | Scheduled data collection, deduplication, enrichment, CRM integration, and operational tooling. |
-| **[SteelFlow](https://github.com/ZeannCo/cybersecurity-portfolio/blob/main/projects/steelflow.md)** | A full-stack ERP and logistics capstone built with Next.js, TypeScript, and Supabase. |
 | **[AEL Lead Pipeline](https://github.com/ZeannCo/cybersecurity-portfolio/blob/main/projects/ael-lead-pipeline.md)** | Business-data normalization, explainable scoring, procurement research, and exports. |
 | **[Personal Website](https://github.com/ZeannCo/cybersecurity-portfolio/blob/main/projects/personal-website.md)** | My live cybersecurity portfolio, professional background, and contact details. |
 
