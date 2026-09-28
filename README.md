@@ -1,8 +1,8 @@
 # Zeann Kirsten D. Co
 
-### Cybersecurity analyst · Vulnerability management · DFIR · Security automation
+### Cybersecurity Analyst | Security Operations & Automation
 
-I work on vulnerability management and digital forensics and incident response (DFIR) at **ePLDT**. I build Python tools that turn security findings into actionable reports, and automation that keeps operational work moving.
+I am a cybersecurity analyst at **ePLDT**, focused on security operations, digital forensics and incident response (DFIR), and automation. I build practical tools with Python, PowerShell, and full-stack technologies.
 
 My focus is cybersecurity. My projects also span data pipelines, business automation, and full-stack applications.
 
@@ -21,7 +21,7 @@ My focus is cybersecurity. My projects also span data pipelines, business automa
 
 ## Areas I work in
 
-- **Security operations:** vulnerability assessment, remediation reporting, DFIR, and SOX / ITGC evidence workflows.
+- **Security operations:** DFIR, vulnerability assessment, remediation reporting, and SOX / ITGC evidence workflows.
 - **Security tools:** Qualys, Nessus, Cortex XDR, Velociraptor, and BeyondTrust.
 - **Engineering:** Python, PowerShell, SQL, APIs, scheduled jobs, and data validation.
 - **Applications:** JavaScript / TypeScript, React, Next.js, PostgreSQL, and Supabase.
